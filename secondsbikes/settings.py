@@ -119,7 +119,7 @@ MEDIA_ROOT = BASE_DIR / 'media'
 MEDIA_URL = '/media/'
 
 CORS_ALLOWED_ORIGINS = [
-    "https://seconds-front.vercel.app/","http://localhost:5173"
+    "https://seconds-front.vercel.app","http://localhost:5173"
 ]
 
 # Static files (CSS, JavaScript, Images)
