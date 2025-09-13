@@ -1,0 +1,62 @@
+[
+  {
+    "model": "bikes.faq",
+    "pk": 1,
+    "fields": {
+      "question": "What happens if a transaction goes wrong?",
+      "answer": "We offer buyer protection and dispute resolution to ensure fair outcomes and peace of mind.",
+      "order": 1,
+      "is_active": true
+    }
+  },
+  {
+    "model": "bikes.faq",
+    "pk": 2,
+    "fields": {
+      "question": "Are there any restrictions on what I can sell?",
+      "answer": "Yes, items must meet our marketplace guidelines. Restricted or illegal goods cannot be listed.",
+      "order": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "bikes.faq",
+    "pk": 3,
+    "fields": {
+      "question": "What if the bike I buy isn’t as described?",
+      "answer": "We offer buyer protection and dispute resolution to ensure fair outcomes and peace of mind.",
+      "order": 3,
+      "is_active": true
+    }
+  },
+  {
+    "model": "bikes.faq",
+    "pk": 4,
+    "fields": {
+      "question": "How do I know if a bike is in good condition?",
+      "answer": "Check the bike details, images, and ask the seller questions. You may also request a test ride or inspection.",
+      "order": 4,
+      "is_active": true
+    }
+  },
+  {
+    "model": "bikes.faq",
+    "pk": 5,
+    "fields": {
+      "question": "Can I delete my listing after posting?",
+      "answer": "Yes, you can manage and remove your listing anytime from your account dashboard.",
+      "order": 5,
+      "is_active": true
+    }
+  },
+  {
+    "model": "bikes.faq",
+    "pk": 6,
+    "fields": {
+      "question": "Can I sell bike parts or accessories?",
+      "answer": "Yes, our platform supports listing bike parts and accessories as long as they meet our quality standards.",
+      "order": 6,
+      "is_active": true
+    }
+  }
+]
